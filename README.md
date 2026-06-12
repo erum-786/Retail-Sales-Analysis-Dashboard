@@ -20,7 +20,14 @@ The dashboard is highly interactive, allowing users to slice data using the foll
 * **Month:** Represent data using months choice.
 * **Country:** Isolate data for targeted regional analysis.
 
-## 🛠️ Built With
-* **[Microsoft Power BI]** - Data visualization and dashboard creation.
-* **DAX** - Calculated measures used for KPI cards and custom metrics.
+# 🛠️ Tools & Technologies Used
+## Visualization: 
+1. Power BI Desktop
+2. Data Preparation: Power Query Editor
+3. Calculations: DAX (Data Analysis Expressions)
+4. Power BI Slicers
+5. Charts and Graphs
+6. Power BI Visualization
 
+### Connect with me:
+Linkedin: "https://www.linkedin.com/in/erum-mansoori"  <br/>
