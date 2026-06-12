@@ -29,5 +29,8 @@ The dashboard is highly interactive, allowing users to slice data using the foll
 5. Charts and Graphs
 6. Power BI Visualization
 
+### Get raw data from:
+"https://www.kaggle.com/datasets/cgrymn/online-retail-ii-uci-dataset?utm_source=chatgpt.com" <br/>
+
 ### Connect with me:
 Linkedin: "https://www.linkedin.com/in/erum-mansoori"  <br/>
